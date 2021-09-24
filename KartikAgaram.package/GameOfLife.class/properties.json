@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "KartikAgaram",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"grid",
+		"grid1",
+		"grid2",
+		"side"
+	],
+	"name" : "GameOfLife",
+	"type" : "normal"
+}
