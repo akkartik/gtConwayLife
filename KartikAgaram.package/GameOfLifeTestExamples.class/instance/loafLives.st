@@ -1,4 +1,4 @@
-accessing
+example
 loafLives
 	"https://www.conwaylife.com/wiki/Loaf remains unchanging"
 	<gtExample>

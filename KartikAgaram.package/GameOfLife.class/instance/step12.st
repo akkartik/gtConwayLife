@@ -1,4 +1,4 @@
-accessing
+private
 step12
 	1 to: side do: [ :x |
 		1 to: side do: [ :y |

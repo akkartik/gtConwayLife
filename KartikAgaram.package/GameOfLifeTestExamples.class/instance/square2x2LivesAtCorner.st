@@ -1,4 +1,4 @@
-accessing
+example
 square2x2LivesAtCorner
 	<gtExample>
 	|x|

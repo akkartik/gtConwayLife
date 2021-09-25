@@ -1,4 +1,4 @@
-accessing
+example
 singleLiveCellDies
 	<gtExample>
 	|x|

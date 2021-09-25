@@ -1,4 +1,4 @@
-accessing
+example
 trafficLight
 	"https://www.conwaylife.com/wiki/Blinker returns to original shape after 2 steps"
 	<gtExample>

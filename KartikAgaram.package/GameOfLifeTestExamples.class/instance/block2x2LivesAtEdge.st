@@ -1,4 +1,4 @@
-accessing
+example
 block2x2LivesAtEdge
 	"https://www.conwaylife.com/wiki/Block"
 	<gtExample>

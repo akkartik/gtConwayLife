@@ -1,4 +1,4 @@
-accessing
+private
 step12: aPoint
 	| x y neighbors count oldState newState |
 	x := aPoint x.
