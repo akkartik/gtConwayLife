@@ -1,5 +1,6 @@
 private
 step21: aPoint
+	"Perform a step for a single point in grid2, saving new state in grid1"
 	| x y neighbors count oldState newState |
 	x := aPoint x.
 	y := aPoint y.
