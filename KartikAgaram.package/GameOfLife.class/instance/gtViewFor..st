@@ -10,7 +10,7 @@ gtViewFor: aView
 				c horizontal fitContent.
 				c vertical fitContent ].
 			root layout: BlGridLayout horizontal.
-			root layout cellSpacing: 2; columnCount: self side.
+			root layout cellSpacing: 2; columnCount: side.
 			1 to: side do: [ :x |
 				1 to: side do: [ :y |
 					| newChild |
